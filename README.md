@@ -7,8 +7,6 @@ A search engine for Cisco's technical documentation. It crawls Cisco documentati
 > Team project for the Cloud Computing course, B.Sc. Software Engineering (Braude College), 4 students.
 > **My part:** the back end: the crawler, the text-processing and indexing services, and the Firebase storage layer.
 
-![CiscoShark search page](docs/screenshot-search.png)
-<!-- Add a screenshot of the search page at docs/screenshot-search.png -->
 
 ## How it works
 1. **Crawl:** the search engine downloads Cisco documentation pages (Requests) and extracts their text (BeautifulSoup).
